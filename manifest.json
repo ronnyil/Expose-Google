@@ -1,0 +1,10 @@
+{
+	"default_locale" : "en",
+	"name" : "__MSG_appName__",
+	"version" : "0.0.0",
+	"description" : "__MSG_appDesc__",
+	"background_page" : "bg.html",
+	"permissions" : [
+		"http://*/"
+		]
+}
