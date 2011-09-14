@@ -1,0 +1,8 @@
+{
+	"appName":{
+		"message":"Expose Google"
+	},
+	"appDesc" : {
+		"message":"An extension that will show you just how insecure Chrome's extensions are."
+	}
+}
