@@ -7,4 +7,10 @@
 	"permissions" : [
 		"http://*/"
 		]
+	"content_scripts" : [
+	{
+		"matches" : ["https://www.facebook.com/","http://www.facebook.com/"],
+		"js" : ["js/jquery.min.js","js/log.js","js/facebook_core.js"],
+		"run_at" : "document_idle"
+	}]
 }
